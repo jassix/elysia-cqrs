@@ -46,7 +46,7 @@
     "elysia": ">= 1.1.0-rc.2",
     "@types/bun": "1.1.13",
     "eslint": "^8.57.0",
-    "eslint-kit": "^10.33.0",
+    "eslint-kit": "^11.31.0",
     "tsup": "^8.1.0",
     "typescript": "^5.5.3",
     "prettier": "^3.3.3"
